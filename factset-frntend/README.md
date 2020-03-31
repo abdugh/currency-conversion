@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Project structure
+<br/>
 Each Folder represent a route, except Common which holds<br/>
  <b>configuration and shared strings</b> <br/>
  <b>translation</b><br/>
