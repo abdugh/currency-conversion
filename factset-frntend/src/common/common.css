@@ -1,0 +1,31 @@
+@import '~antd/dist/antd.css';
+
+body{
+    background-color: #f0f2f5;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.page-breadcrumb {
+    margin: 32px 0;
+}
+.page-content {
+    padding: 0 50px;
+}
+.site-layout-content{
+    background: #fff;
+    padding: 24px;
+}
+
+.full-width{
+    width: 100%;
+}
+
+.center-text{
+text-align: center;
+}
