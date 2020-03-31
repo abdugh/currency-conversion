@@ -3,9 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Project structure
 <br/>
 Each Folder represent a route, except Common which holds<br/>
- <b>configuration and shared strings</b> <br/>
- <b>translation</b><br/>
- <b> common css</b>
+ configuration and shared strings <br/>
+ translation<br/>
+  common css<br/>
+  
 --
 * converter -> /<br/>
 * insight -> /insight<br/> 
