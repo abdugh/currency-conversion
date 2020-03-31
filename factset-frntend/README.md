@@ -7,10 +7,10 @@ Each Folder represent a route, except Common which holds<br/>
  <b>translation</b><br/>
  <b> common css</b>
 --
-* converter -> /
-* insight -> /insight 
-* setting -> /setting
-* currency-converter -> /currency-converter
+* converter -> /<br/>
+* insight -> /insight<br/> 
+* setting -> /setting<br/>
+* currency-converter -> /currency-converter<br/>
 
 ### If I had more time
 1. create more visualizations
