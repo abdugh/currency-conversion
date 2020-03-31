@@ -1,0 +1,23 @@
+This project allows to run an api mockup with  [json-server](https://github.com/typicode/json-server).
+
+##Start the API
+1. install json server globally `npm install -g json-server`
+2. run the server and specify the port `json-server --watch db.json --port 3001`  <br/>
+if you want to change the port don't forget to change the port in the client under '//config'
+
+Check db.js to get an idea over the data structure or visit :
+*documentation
+http://localhost:3001
+
+##API endpoints
+* get all currencies<br/>
+http://localhost:3001//currencies
+* get all currencyConversions<br/>
+http://localhost:3001/currencyConversions
+* get time currency conversion
+http://localhost:3001/timeCurrency
+
+Please check documentation for more
+
+
+
